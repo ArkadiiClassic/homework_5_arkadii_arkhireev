@@ -66,8 +66,8 @@ namespace example_3
             /* 3. *Для двух строк написать метод, определяющий, является ли одна строка перестановкой другой.
             Например: badc являются перестановкой abcd.*/
 
-            string first = "ambiguous";
-            string second = "asmuboiug";
+            string first = "abcd";
+            string second = "badc";
 
             Console.WriteLine("Вас приветствует программа проверки является ли одна строка перестановкой другой.");
 
