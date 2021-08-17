@@ -11,10 +11,15 @@ namespace ClassMessage
 
         static Message()
         {
-            text = "Лейтенант шел по желтому строительному песку, нагретому дневным палящим солнцем. " +
-                "Он был мокрым от кончиков пальцев до кончиков волос, все его тело было усеяно царапинами " +
-                "от острой колючей проволоки и ныло от сводящей с ума боли, но он был жив и направлялся к командному штабу, " +
-                "который виднелся на горизонте метрах в пятистах. Повторим несколько слов для частотного анализа: шел, его, его, тело, жив, он, ";
+            /*кто там 
+                гамора
+                тгк
+                chemodan clag*/
+            text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut" +
+                " labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris" +
+                " nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit" +
+                " esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt" +
+                " in culpa qui officia deserunt mollit anim id est laborum";
         }
 
         /// <summary>Выводит слова сообщения, которые содержат не более n букв</summary>
